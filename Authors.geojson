@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "name": "Authors",
 "features": [
-{ "type": "Feature", "properties": { "id": 1, "Name": "Sinclair, Iain", "Birth/Deat": "1943 -" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -1.542083725221277, 0.328870367054444 ] ] } },
+{ "type": "Feature", "properties": { "id": 1, "Name": "Sinclair, Iain", "Birth/Deat": "1943 -" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -0.142787667181341, 104.864609818196413 ] ] } },
 { "type": "Feature", "properties": { "id": 1, "Name": "Harvey, David", "Birth/Deat": "1935" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -1.626807879590342, 0.055566643283266 ] ] } },
 { "type": "Feature", "properties": { "id": 1, "Name": "Ingold, Tim", "Birth/Deat": "1948" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -0.96951242392066, -0.003193657327537 ] ] } },
 { "type": "Feature", "properties": { "id": 1, "Name": "Careri, Francesco", "Birth/Deat": "1966" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -1.197721033269594, 0.324770811197876 ] ] } },
